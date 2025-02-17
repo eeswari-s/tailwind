@@ -1,6 +1,6 @@
 import React from 'react'
 
-function nav() {
+function Nav() {
   return (
     <div>
       <header
@@ -22,4 +22,4 @@ function nav() {
   )
 }
 
-export default nav
+export default Nav
